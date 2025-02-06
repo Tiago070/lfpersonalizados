@@ -99,14 +99,27 @@ body {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 15%;
+    width: 5%;
     z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #DD3B64;
+    background-color: #FEEBEE;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 50%;
 }
 @media (max-width: 768px) {
     #fix {
-        width: 30%;
+        width: 13%;
         bottom: 10px;
         right: 10px;
+        border-radius: 50%;
     }
 }
 
@@ -506,7 +519,7 @@ a {
     text-decoration: none;
 }
 
-button {
+.button {
     display: flex;
     justify-content: center;
     align-items: center;
