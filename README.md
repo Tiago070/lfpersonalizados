@@ -1,19 +1,5 @@
 # lfpersonalizados
 
-Site: https://tiago070.github.io/lfpersonalizados/
+Site: https://lfpresentespersonalizados.com.br/ 
 
-frase com mais destaque, centralizada
-
-efeito de subir nas galerias
-
-melhorar caixinhas do sobre
-
-melhorar secao depoimentos com caixas e texto
-
-icones nos motivos
-
-conferir horario de funcionamento
-
-ajustar imagens no rodape
-
-inserir nome infos da empresa no rodape
+Design Figma: https://www.figma.com/design/F6bWc5sIR5n3VU6RiEgFkW/siteLFpersonalizados?node-id=0-1&t=yC9vUuROW6MlaW00-1 
